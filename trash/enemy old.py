@@ -1,4 +1,4 @@
-# game/enemy.py
+# game/enemy.py | Old
 import pygame
 import random
 from config.config import *
